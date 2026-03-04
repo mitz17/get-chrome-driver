@@ -43,3 +43,7 @@ pip install pyinstaller
 pyinstaller --onefile main.py --name get-chrome-driver
 ```
 
+## 開発ログ
+
+開発ログは以下で公開しています。  
+https://mitz17.com/blog/get-chrome-driver-python/
